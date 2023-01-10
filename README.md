@@ -11,8 +11,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://fb.com/https://web.facebook.com/profile.php?id=100080905045708" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://web.facebook.com/profile.php?id=100080905045708" height="30" width="40" /></a>
-<a href="https://instagram.com/@clemente_cazadi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@clemente_cazadi" height="30" width="40" /></a>
+<a href="https://fb.com/profile.php?id=100080905045708" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="profile.php?id=100080905045708" height="30" width="40" /></a>
+<a href="https://instagram.com/clemente_cazadi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="clemente_cazadi" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
