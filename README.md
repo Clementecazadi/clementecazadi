@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Cgst 2.0](https://github.com/Clementecazadi/Desktop/tree/main/Portugu%C3%AAs/meus%20projectos/Cgest2)
 
-- 🌱 I’m currently learning **PySide6, Cs50 Havard**
+- 🌱 I’m currently learning **PySide, Cs50 Havard**
 
 - 📄 Know about my experiences [Hello I'm developer with four years of career, in this years of my career I worked with development in Python with graphical interface made in Qt5, worked with several Diferent themes and plugins](Hello I'm developer with four years of career, in this years of my career I worked with development in Python with graphical interface made in Qt5, worked with several Diferent themes and plugins)
 
